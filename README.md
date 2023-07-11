@@ -24,6 +24,8 @@ The global prefix for SharkBoat™ is `./`. You need to include this prefix befo
 - `./randomuser` - Get a random user from the guild.
   Usage : ./randomuser
 after running this command enters the number how many randomuser do you want!!
+- `./timestamp` - Get a page of timestamp.
+  Usage : ./timestamp HH:MM:SS
 
 ## Other Command
 - `./help` - Show a list of available commands and their descriptions.
